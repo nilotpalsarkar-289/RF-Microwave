@@ -1,7 +1,7 @@
 # RF AND MICROWAVE ENGINEERING [With MATLAB]
 
 ## Overview: -
-This repository contains MATLAB scripts dedicated to RF (Radio Frequency) and Microwave engineering. 
+This repository provides a comprehensive collection of MATLAB scripts tailored for RF (Radio Frequency) and Microwave engineering applications. It serves as a valuable resource for anyone involved in the design, simulation, and analysis of RF and microwave systems, ranging from simple components like filters and antennas to complex communication systems.
 
 ## Features: -
 - **Simulations:** Model and simulate RF and microwave components such as amplifiers, filters, and antennas.
